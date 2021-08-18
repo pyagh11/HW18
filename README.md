@@ -1,5 +1,5 @@
 # HW18: Proof of Authority Development Chain
-![image](https://user-images.githubusercontent.com/81027861/129828961-b2c04bdb-cb1a-4d67-b30b-41bcb135fd76.png)
+
 
 The goal is to setup set up a testnet blockchain, "pynet", for our organization using proof of authority and make transactions. We utilize Mycrypto wallet and Ethereum tools.
 
@@ -17,6 +17,7 @@ Created 2 node directories using ./geth
 
 Below are directory nodes and pynet have been created and ready for use:
 ![image](https://github.com/pyagh11/HW18/blob/main/hw18images/dir1.png)
+
 ![image](https://github.com/pyagh11/HW18/blob/main/hw18images/dir2.png)
 
 **Starting the Blockchain:**
