@@ -9,7 +9,7 @@ Address 1: 0x865587f4787621E606c96F15b54d287A929CEd91
 
 Address 2: 0x9702FB2295E50b9cbAB4467e1F07Cf1f73aEC1A1
 
-Created 2 node directories using ./geth
+Created 2 node directories using geth
 
 **Run puppet create pynet as my network, and chose clique (proof of authority):**
 
