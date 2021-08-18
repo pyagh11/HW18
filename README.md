@@ -1,7 +1,7 @@
 # HW18: Proof of Authority Development Chain
 
 
-The goal is to setup set up a testnet blockchain, "pynet", for our organization using proof of authority and make transactions. We utilize Mycrypto wallet and Ethereum tools.
+The goal is to setup set up a testnet blockchain, "pynet", for our organization using proof of authority and run test transactions. We utilize Mycrypto wallet and Ethereum tools to accomplish this goal.
 
 Creating the nodes:
 
